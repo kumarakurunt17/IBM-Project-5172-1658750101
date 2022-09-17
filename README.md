@@ -5,11 +5,11 @@ Contributor :
 
 Ravi Kant
 
-Vigneshwar
+Vigneshwar C
 
 Vimal Raaj M
 
-Kumara
+Kumara Kurunt K S
 
 
 
@@ -50,6 +50,7 @@ o	Reshaping the data.
 
 o	Applying One Hot Encoding
 
+
 •	Model Building
 
 o	 Creating the model and adding the input, hidden and output layers to it
@@ -63,6 +64,7 @@ o	 Predicting the result
 o	Testing the model by taking image inputs
 
 o	Saving the model
+
 
 •	Application Building
 
