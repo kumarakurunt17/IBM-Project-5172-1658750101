@@ -12,6 +12,7 @@ Vimal
 Kumara
 
 
+
 Project Objectives
 
 By the end of this project, you will:
@@ -34,6 +35,7 @@ Project Flow:
 •	The uploaded image is analysed by the model which is integrated
 
 •	Once the model analyses the uploaded image, the prediction is showcased on the UI
+
 
 To accomplish this, we have to complete all the activities and tasks listed below
 •	Understanding the data.
