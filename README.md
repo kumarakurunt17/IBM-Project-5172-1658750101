@@ -37,6 +37,7 @@ Project Flow:
 •	Once the model analyses the uploaded image, the prediction is showcased on the UI
 
 
+
 To accomplish this, we have to complete all the activities and tasks listed below
 •	Understanding the data.
 
